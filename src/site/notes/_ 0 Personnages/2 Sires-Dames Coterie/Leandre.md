@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/0-personnages/2-sires-dames-coterie/leandre/","tags":["gardenEntry"]}
 ---
 
+
 Tzimisce, de la 10e génération, sire de [[_ 0 Personnages/1 Coterie - ROSA VENTURUM/Kashi\|Kashi]].
 
 Mardi 8 août 2023
